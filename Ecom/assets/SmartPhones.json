@@ -1,0 +1,353 @@
+[
+    {
+      "id": 1,
+      "image": "https://th.bing.com/th/id/OIP.FSoodFC7NUZ3dNttsefxLAHaHa?rs=1&pid=ImgDetMain",
+      "name": "Galaxy Pro X",
+      "price": 699.99,
+      "description": "A sleek and powerful smartphone with a stunning AMOLED display and long-lasting battery life."
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th?id=OIP.EBz28L0g_HLeDWC7KkJmJAHaMW&w=193&h=322&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "name": "iPhone 15 Max",
+      "price": 1099.99,
+      "description": "Apple's latest flagship featuring the A17 Bionic chip and advanced camera capabilities."
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/images/smartphone3.jpg",
+      "name": "Pixel Vision 8",
+      "price": 799.00,
+      "description": "Google's cutting-edge phone with AI-enhanced photography and pure Android experience."
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/images/smartphone4.jpg",
+      "name": "OnePlus Elite 12",
+      "price": 649.00,
+      "description": "A high-performance smartphone with a 120Hz display and fast charging support."
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/images/smartphone5.jpg",
+      "name": "Xiaomi Mi Ultra",
+      "price": 599.99,
+      "description": "A budget-friendly flagship with a premium camera and impressive display quality."
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/images/smartphone6.jpg",
+      "name": "Sony Xperia Z10",
+      "price": 999.00,
+      "description": "Designed for multimedia enthusiasts with a 4K HDR display and superior audio quality."
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/images/smartphone7.jpg",
+      "name": "Huawei P60 Pro",
+      "price": 879.00,
+      "description": "A stylish phone with advanced photography features and a robust build quality."
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/images/smartphone8.jpg",
+      "name": "Realme Master GT",
+      "price": 499.99,
+      "description": "A gaming powerhouse with a high refresh rate display and a robust cooling system."
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/images/smartphone9.jpg",
+      "name": "Motorola Edge 40",
+      "price": 699.00,
+      "description": "An edge-to-edge display with excellent battery performance and fast charging."
+    },
+    {
+      "id": 10,
+      "image": "https://example.com/images/smartphone10.jpg",
+      "name": "Asus ROG Phone 7",
+      "price": 1299.00,
+      "description": "A dedicated gaming phone with customizable controls and superior thermal management."
+    },
+    {
+      "id": 11,
+      "image": "https://example.com/tv1.jpg",
+      "name": "Samsung Crystal UHD",
+      "price": 450,
+      "description": "A 43-inch 4K UHD Smart TV with stunning picture quality and vibrant colors."
+    },
+    {
+      "id": 12,
+      "image": "https://example.com/tv2.jpg",
+      "name": "LG OLED Evo",
+      "price": 1200,
+      "description": "A 55-inch OLED TV with deep blacks and Dolby Atmos for a premium experience."
+    },
+    {
+      "id": 13,
+      "image": "https://example.com/tv3.jpg",
+      "name": "Sony Bravia X90L",
+      "price": 1000,
+      "description": "A 65-inch Full-Array LED Smart TV with exceptional color accuracy and HDR support."
+    },
+    {
+      "id": 14,
+      "image": "https://example.com/tv4.jpg",
+      "name": "TCL QLED 6-Series",
+      "price": 650,
+      "description": "A 55-inch QLED TV with Quantum Dot technology and hands-free voice control."
+    },
+    {
+      "id": 15,
+      "image": "https://example.com/tv5.jpg",
+      "name": "Vizio M-Series Quantum",
+      "price": 500,
+      "description": "A 50-inch 4K TV with Quantum Color, Dolby Vision, and HDR10+ support."
+    },
+    {
+      "id": 16,
+      "image": "https://example.com/tv6.jpg",
+      "name": "Hisense U8H",
+      "price": 750,
+      "description": "A 65-inch Mini-LED Smart TV with high brightness and advanced local dimming."
+    },
+    {
+      "id": 17,
+      "image": "https://example.com/tv7.jpg",
+      "name": "Philips Ambilight",
+      "price": 850,
+      "description": "A 55-inch 4K UHD Smart TV with unique Ambilight technology for immersive visuals."
+    },
+    {
+      "id": 18,
+      "image": "https://example.com/tv8.jpg",
+      "name": "Panasonic OLED HX800",
+      "price": 950,
+      "description": "A 65-inch OLED TV with Hollywood-tuned HDR performance and cinematic audio."
+    },
+    {
+      "id": 19,
+      "image": "https://example.com/tv9.jpg",
+      "name": "Sharp Aquos",
+      "price": 400,
+      "description": "A 42-inch Full HD TV with built-in Android TV and excellent motion handling."
+    },
+    {
+      "id": 20,
+      "image": "https://example.com/tv10.jpg",
+      "name": "Toshiba Fire TV",
+      "price": 300,
+      "description": "A 43-inch Smart TV with integrated Fire TV and Alexa voice remote."
+    },
+    {
+      "id": 21,
+      "image": "https://example.com/images/laptop1.jpg",
+      "name": "Dell Inspiron 15",
+      "price": 749.99,
+      "description": "A powerful laptop with a 15.6-inch display, Intel Core i5 processor, 8GB RAM, and 512GB SSD."
+    },
+    {
+      "id": 22,
+      "image": "https://example.com/images/laptop2.jpg",
+      "name": "HP Pavilion x360",
+      "price": 699.99,
+      "description": "A versatile 2-in-1 laptop with a 14-inch touchscreen, Intel Core i3, 8GB RAM, and 256GB SSD."
+    },
+    {
+      "id": 23,
+      "image": "https://example.com/images/laptop3.jpg",
+      "name": "Apple MacBook Air",
+      "price": 999.99,
+      "description": "Ultra-slim and lightweight laptop with a 13.3-inch Retina display, M1 chip, 8GB RAM, and 256GB SSD."
+    },
+    {
+      "id": 24,
+      "image": "https://example.com/images/laptop4.jpg",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1299.99,
+      "description": "A premium business laptop with a 14-inch display, Intel Core i7, 16GB RAM, and 1TB SSD."
+    },
+    {
+      "id": 25,
+      "image": "https://example.com/images/laptop5.jpg",
+      "name": "Asus ROG Zephyrus G14",
+      "price": 1499.99,
+      "description": "A gaming laptop with a 14-inch QHD display, AMD Ryzen 9 processor, 16GB RAM, and 1TB SSD."
+    },
+    {
+      "id": 26,
+      "image": "https://example.com/images/laptop6.jpg",
+      "name": "Acer Swift 3",
+      "price": 649.99,
+      "description": "A sleek and portable laptop with a 14-inch FHD display, AMD Ryzen 5, 8GB RAM, and 512GB SSD."
+    },
+    {
+      "id": 27,
+      "image": "https://example.com/images/laptop7.jpg",
+      "name": "Microsoft Surface Laptop 4",
+      "price": 1099.99,
+      "description": "A stylish laptop with a 13.5-inch PixelSense touchscreen, Intel Core i5, 8GB RAM, and 512GB SSD."
+    },
+    {
+      "id": 28,
+      "image": "https://example.com/images/laptop8.jpg",
+      "name": "Razer Blade 15",
+      "price": 1899.99,
+      "description": "A high-performance gaming laptop with a 15.6-inch FHD display, Intel Core i7, 16GB RAM, and 1TB SSD."
+    },
+    {
+      "id": 29,
+      "image": "https://example.com/images/laptop9.jpg",
+      "name": "LG Gram 16",
+      "price": 1399.99,
+      "description": "An ultra-lightweight laptop with a 16-inch display, Intel Core i7, 16GB RAM, and 512GB SSD."
+    },
+    {
+      "id": 30,
+      "image": "https://example.com/images/laptop10.jpg",
+      "name": "Samsung Galaxy Book Pro",
+      "price": 1199.99,
+      "description": "A slim and powerful laptop with a 15.6-inch AMOLED display, Intel Core i5, 8GB RAM, and 512GB SSD."
+    },
+    {
+      "id": 31,
+      "image": "https://example.com/images/fridge1.jpg",
+      "name": "CoolMate 3000",
+      "price": 499.99,
+      "description": "A compact and energy-efficient fridge, perfect for small spaces."
+    },
+    {
+      "id": 32,
+      "image": "https://example.com/images/fridge2.jpg",
+      "name": "FrostTech Deluxe",
+      "price": 899.99,
+      "description": "Spacious double-door fridge with advanced cooling technology."
+    },
+    {
+      "id": 33,
+      "image": "https://example.com/images/fridge3.jpg",
+      "name": "EcoChill 500",
+      "price": 599.99,
+      "description": "Environmentally friendly fridge with low power consumption."
+    },
+    {
+      "id": 34,
+      "image": "https://example.com/images/fridge4.jpg",
+      "name": "ArcticCool Pro",
+      "price": 1099.99,
+      "description": "Premium fridge with a built-in ice maker and smart controls."
+    },
+    {
+      "id": 35,
+      "image": "https://example.com/images/fridge5.jpg",
+      "name": "ChillMaster 400",
+      "price": 799.99,
+      "description": "A sleek fridge with adjustable shelves and frost-free technology."
+    },
+    {
+      "id": 36,
+      "image": "https://example.com/images/fridge6.jpg",
+      "name": "IceGuard XL",
+      "price": 1299.99,
+      "description": "High-capacity fridge designed for large families and heavy use."
+    },
+    {
+      "id": 37,
+      "image": "https://example.com/images/fridge7.jpg",
+      "name": "FreshFlow 700",
+      "price": 699.99,
+      "description": "Advanced cooling system to keep food fresh for longer."
+    },
+    {
+      "id": 38,
+      "image": "https://example.com/images/fridge8.jpg",
+      "name": "QuickFreeze Plus",
+      "price": 999.99,
+      "description": "Features rapid cooling and a separate freezer compartment."
+    },
+    {
+      "id": 39,
+      "image": "https://example.com/images/fridge9.jpg",
+      "name": "SmartChill Duo",
+      "price": 1399.99,
+      "description": "Wi-Fi-enabled fridge with smart home integration."
+    },
+    {
+      "id": 40,
+      "image": "https://example.com/images/fridge10.jpg",
+      "name": "CoolEdge Compact",
+      "price": 399.99,
+      "description": "Affordable fridge ideal for dorm rooms or office use."
+    },
+    {
+      "id": 41,
+      "image": "https://example.com/images/desktop1.jpg",
+      "name": "UltraStation Pro",
+      "price": 1200.99,
+      "description": "A high-performance desktop with 16GB RAM, 1TB SSD, and an Intel i7 processor."
+    },
+    {
+      "id": 42,
+      "image": "https://example.com/images/desktop2.jpg",
+      "name": "Gamer's Delight",
+      "price": 1599.49,
+      "description": "Gaming desktop equipped with an NVIDIA RTX 3080, 32GB RAM, and RGB lighting."
+    },
+    {
+      "id": 43,
+      "image": "https://example.com/images/desktop3.jpg",
+      "name": "WorkStation Elite",
+      "price": 899.99,
+      "description": "Reliable desktop for office tasks with 8GB RAM, 512GB SSD, and an AMD Ryzen 5 processor."
+    },
+    {
+      "id": 44,
+      "image": "https://example.com/images/desktop4.jpg",
+      "name": "Creative Hub",
+      "price": 1349.99,
+      "description": "Perfect for creators with 16GB RAM, a 2TB HDD, and an Intel i9 processor."
+    },
+    {
+      "id": 45,
+      "image": "https://example.com/images/desktop5.jpg",
+      "name": "EcoBox Mini",
+      "price": 499.99,
+      "description": "Compact desktop with 4GB RAM, 256GB SSD, and ultra-low power consumption."
+    },
+    {
+      "id": 46,
+      "image": "https://example.com/images/desktop6.jpg",
+      "name": "Gaming Beast",
+      "price": 2499.99,
+      "description": "Ultimate gaming machine with NVIDIA RTX 4090, 64GB RAM, and liquid cooling."
+    },
+    {
+      "id": 47,
+      "image": "https://example.com/images/desktop7.jpg",
+      "name": "Business Prime",
+      "price": 749.99,
+      "description": "Optimized for business with 8GB RAM, 1TB HDD, and Windows 11 Pro."
+    },
+    {
+      "id": 48,
+      "image": "https://example.com/images/desktop8.jpg",
+      "name": "All-in-One Elegance",
+      "price": 1299.99,
+      "description": "Sleek all-in-one desktop with a 27-inch 4K display, 16GB RAM, and a 512GB SSD."
+    },
+    {
+      "id": 49,
+      "image": "https://example.com/images/desktop9.jpg",
+      "name": "PowerEdge Max",
+      "price": 1899.99,
+      "description": "High-end desktop with dual Intel Xeon processors, 32GB RAM, and advanced cooling."
+    },
+    {
+      "id": 50,
+      "image": "https://example.com/images/desktop10.jpg",
+      "name": "Home Companion",
+      "price": 599.99,
+      "description": "Affordable desktop ideal for family use, featuring 8GB RAM and 1TB HDD."
+    }
+  ]
+  
